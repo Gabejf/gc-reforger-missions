@@ -2,9 +2,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  blufor1situationenemy {
   coords 2098.159 1.336 3117.191
   m_sTitle "Situation Enemy"
-  m_sTextData "Soviet armor company consisting of up to 10x T72B and 1x BRDM2 for reconnaissance."\
-  ""\
-  "Though the Soviet armor has inferior optics, they are quipped with deadly armor-piercing, HE, and ATGM rounds."\
+  m_sTextData "Soviet armor company consisting of up to 10x T72A and 2x BRDM2 for reconnaissance. They also have an Mi-24P Hind en-route from the airfield to the north."\
   ""\
   "Last spotted by reconnaissance roughly 2 klicks to our southeast around grid 054 048, on the north face of Bonfire Hill. Their last known heading suggests that they are aware of our rough position and recent directional movement."\
   ""\
@@ -19,7 +17,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "Situation Friendly"
   m_sTextData "Bravo Company consists of 9x M1A1 Abrams and 2x M2 .50 HMMWV reconnaissance detachment (Two 4-tank platoons and an HQ tank + recon)"\
   ""\
-  "We have armor piercing and high explosive rounds as well as superior optics to enemy tanks. Current position is on the north face of Cavalry Hill, grid 034 060, to the north/northwest of Wolf Hill."
+  "We have armor piercing and high explosive rounds as well as superior optics to enemy tanks. Current position is on the north face of Cavalry Hill, grid 034 060."
   m_aVisibleForFactions {
    "US"
   }
@@ -28,9 +26,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  blufor3mission {
   coords 2116.855 5.542 3109.766
   m_sTitle "Mission"
-  m_sTextData "Wolf Hill (named area of interest) is to our southwest. Intelligence suggests there is an operable Mi-24P Hind equipped with 9M114 anti-tank rockets. The Soviets may attempt to secure this vital piece of equipment and will likely man it if given the opportunity."\
-  ""\
-  "The mission is simple: Advance to contact and annihilate the enemy. Optional: Either steal the Mi-24P and use it against them or destroy it before or after the Soviets man it themselves (should they attempt to do so)."
+  m_sTextData "Maintain control of capture zone for 15 minutes or destroy the enemy. Preferably both."
   m_aVisibleForFactions {
    "US"
   }
@@ -39,13 +35,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  blufor4execution {
   coords 2125.104 7.129 3105.385
   m_sTitle "Execution"
-  m_sTextData "Move towards Wolf Hill area of interest and gain decisive control of the area of operation (AO)."\
+  m_sTextData "Bravo Company has free reign within the AO to maneuver and engage the enemy. "\
   ""\
-  "Bravo Company has free reign within the AO to maneuver and engage the enemy. "\
-  ""\
-  "Acquiring (to utilize) or destroying the Soviet Mi-24P Hind is advised but not required. "\
-  ""\
-  "Prepare to counterattack if the enemy chooses to utilize the Hind themselves."
+  "Capture objective area for 15 minutes, avoid their Hind or destroy it if it cannot be avoided while capturing objective area."
   m_aVisibleForFactions {
    "US"
   }
@@ -80,11 +72,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  blufor6serviceandsupport {
   coords 2135.75 8.855 3100.645
   m_sTitle "Service and Support"
-  m_sTextData "M1A1 Abrams, 2x M2 .50 HMMWVs manned by 2x two-man recon teams equipped with M72A3 Laws on hand and in their victors, 2 mines in each HMMWV"\
-  ""\
-  "Mi-24P armed helicopter on Wolf Hill *should it be acquired*"\
-  ""\
-  "(note: Mi-24P has had its health values modified by +50% in its hitboxes, and +500% for the battery damage threshold in order to increase its viability in this mission and it will also not begin to experience malfunctions until it is at 40% of its max health)"
+  m_sTextData "Up to 9x M1A1 Abrams and 2x M2 .50 HMMWVs manned by 2x two-man recon teams equipped with M72A3 Laws on hand and in their victors, 2 mines in each HMMWV"
   m_aVisibleForFactions {
    "US"
   }
@@ -92,15 +80,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  }
  opfor1situationenemy {
   coords 1318.714 6.555 3269.891
-  angleY -38.5
+  angles 0 -38.5 0
   m_sTitle "Situation Enemy"
-  m_sTextData "Americans are deep behind enemy lines and are taking advantage of our lack of road mines due to recent civilian evacuations. Using the forests as cover, they have been advancing towards Wolf Hill - we are worried they know about the Mi-24P Hind armed with anti-tank missiles that our forces currently have hidden on a landing pad at the top of the hill. "\
-  ""\
-  "If they maintain their current heading, their company of up to 9x M1A1 Abrams tanks and 2x M2 .50 Recon HMMWVs could reach Wolf Hill (to the enemies south/southeast) by sunset which will be within the next hour."\
-  ""\
-  "They are believed to know our general whereabouts due to enemy reconnaissance operations. We cannot reasonably expect them to focus entirely on that helicopter–if at all. We must be prepared for the enemy to actively seek and destroy our entire company."\
-  ""\
-  "They are equipped with high explosive and armor-piercing rounds. Their equipment has superior optics to ours. Current position is believed to be on the north face of Cavalry Hill, grid 034 060, about 2 klicks to our northwest."
+  m_sTextData "Americans are deep behind enemy lines. They are equipped with high-explosive and armor-piercing rounds. Their equipment has superior optics to ours. Current position is believed to be on the north face of Cavalry Hill, grid 034 060, about 2 klicks to our northwest."
   m_aVisibleForFactions {
    "USSR"
   }
@@ -109,15 +91,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  opfor2situationfriendly {
   coords 1339.953 6.813 3241.504
   m_sTitle "Situation Friendly"
-  m_sTextData "Soviet armor company consisting of up to 10x T72B and 1x BRDM2 for reconnaissance."\
+  m_sTextData "Soviet armor company consisting of up to 10x T72A and 2x BRDM2 for reconnaissance. We also have an Mi-24P Hind en route from the airfield to the north."\
   ""\
-  "Though we have inferior optics, we are quipped with deadly armor-piercing, HE, and ATGM rounds in our tanks."\
-  ""\
-  "We are situated at grid 054 048, on the north face of Bonfire Hill, east/northeast of Wolf Hill by a near idential distance as the U.S. forces in the area of operation (AO)."\
-  ""\
-  "We have access to more direct routes headed towards Wolf Hill as well as the coastal city of Morton. We are in a position to take advantage of the terrain to give us an edge in securing the Mi-24P Hind to use against our enemies."\
-  ""\
-  ""
+  "We are situated at grid 054 048, on the north face of Bonfire Hill"
   m_aVisibleForFactions {
    "USSR"
   }
@@ -126,9 +102,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  opfor3mission {
   coords 1314.258 6.996 3236.744
   m_sTitle "Mission"
-  m_sTextData "Higher command has made it very clear that we have a clear primary mission: To use any means necessary to destroy the enemy. "\
-  ""\
-  "Ideally, but optionally, secure and utilize the Mi-24P Hind. Otherwise, prevent them from destroying the hind, or worse, stealing it and using it against our forces should it be necessary to avoid failing our primary objective."
+  m_sTextData "Maintain control of capture zone for 15 minutes or destroy the enemy. Preferably both."
   m_aVisibleForFactions {
    "USSR"
   }
@@ -139,20 +113,24 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "Command and Signals"
   m_sTextData "ekho Company Command - ekho Command"\
   ""\
-  "1st Platoon (BMP-1Ps) Command - ekho 1'0"\
-  "1st Platoon 1st BMP-1P - 1'1"\
-  "1st Platoon 2nd BMP-1P - 1'2"\
-  "1st Platoon 3rd BMP-1P - 1'3"\
+  "1st Platoon (T72A) Command - ekho 1'0"\
+  "1st Platoon 1st T72A - ekho 1'1"\
+  "1st Platoon 2nd T72A - ekho 1'2"\
+  "1st Platoon 3rd T72A - ekho 1'3"\
   ""\
-  "2nd Platoon (T72B) Command - ekho 2'0"\
-  "2nd Platoon 1st T72B - ekho 2'1"\
-  "2nd Platoon 2nd T72B - ekho 2'2"\
+  "2nd Platoon (T72A) Command - ekho 2'0"\
+  "2nd Platoon 1st T72A - ekho 2'1"\
+  "2nd Platoon 2nd T72A - ekho 2'2"\
   ""\
-  "3rd Platoon (T72B) Command - ekho 3'0"\
-  "3rd Platoon 1st T72B - ekho 3'1"\
-  "3rd Platoon 2nd T72B - ekho 3'2"\
+  "3rd Platoon (T72A) Command - ekho 3'0"\
+  "3rd Platoon 1st T72A - ekho 3'1"\
+  "3rd Platoon 2nd T72A - ekho 3'2"\
   ""\
-  "Company Net + Recon - 42.00"\
+  "Recon BRDMs - ekho 6'8 and ekho 6'9"\
+  ""\
+  "Mi-24P Hind - Dark Horse"\
+  ""\
+  "Company Net + Recon + Dark Horse - 42.00"\
   "1st Platoon Net - 44.00"\
   "2nd Platoon Net - 45.00"\
   "3rd Platoon Net - 46.00"\
@@ -166,13 +144,11 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  opfor6serviceandsupport {
   coords 1307.074 7.039 3244.448
   m_sTitle "Service and Support"
-  m_sTextData "ATGM missiles (press and hold \"V\" key on PC while using the mini gun/turret)"\
+  m_sTextData "AP/HE rounds"\
   ""\
-  "AP/HE rounds"\
+  "Recon teams in BRDM2s equipped with RPGs on hand (commander) and in their victors (gunner/driver), there are a few mines in the BRDM as well"\
   ""\
-  "Recon team in BRDM2 equipped with RPGs on hand (commander) and in their victors (gunner/driver), there are a few mines in the BRDM as well"\
-  ""\
-  "Mi-24P armed helicopter on Wolf Hill *should it be acquired*"\
+  "Mi-24P armed helicopter"\
   ""\
   "(note: Mi-24P has had its health values modified by +50% in its hitboxes, and +500% for the battery damage threshold in order to increase its viability in this mission and it will also not begin to experience malfunctions until it is at 40% of its max health)"
   m_aVisibleForFactions {
@@ -183,9 +159,11 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  ALL_First_Tab_overview {
   coords 2098.159 1.336 3117.191
   m_sTitle "Overview"
-  m_sTextData "U.S. Army M1A1 Abrams company meeting engagement with Soviet T72B company plus recon element(s) on both sides."\
+  m_sTextData "U.S. Army M1A1 Abrams company meeting engagement with Soviet T72A company plus recon element(s) on both sides."\
   ""\
-  "Mission based on legacy UO ArmA 2 TVT mission(s) with armored meeting engagements on Chernarus, Takistan, et. al. if applicable. "\
+  "Mission based on legacy UO ArmA 2 TVT mission, Bergen Heights."\
+  ""\
+  "Wade is little bitch boy."\
   ""\
   "Mission created by Gabe."\
   ""\
@@ -197,6 +175,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   coords 2038.82 18.284 3340.131
   m_sTitle "End Conditions"
   m_sTextData "Either side takes 90% casualties (vehicles not considered, players only)"\
+  "Either side captures objective for 15 minutes"\
   "60 minute time limit"
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
@@ -208,7 +187,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "Хватит валять дурака и иди убей этих американских ублюдков!!"\
   "(Stop fooling around and go kill these American bastards!!)"\
   ""\
-  "Use T72Bs to destroy enemy tanks. Use BRDM2 for reconnaissance and mines. Consider securing Wolf Hill to utilize the Mi-24P Hind armed helicopter or deny the enemy access to said piece of equipment."\
+  "Use T72As to destroy enemy tanks. Use BRDM2 for reconnaissance and mines. Use Mi-24P Hind to destroy American tanks. Capture objective area for 15 minutes."\
   ""\
   ""\
   ""\
@@ -217,5 +196,14 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
    "USSR"
   }
   m_iOrder 4
+ }
+ ALL_mission_notes {
+  coords 5212.29 517.118 7584.107
+  m_sTitle "Mission Notes"
+  m_sTextData "AO limit activates after freeze timer. Mi-24P is not impacted by AO limit, however the pilot/gunner are when they're not inside the helicopter, so make sure to load up before the freeze timer completes or you will be considered outside the AO."\
+  ""\
+  "(note: Mi-24P has had its health values modified by +50% in its hitboxes, and +500% for the battery damage threshold in order to increase its viability in this mission and it will also not begin to experience malfunctions until it is at 40% of its max health)"
+  m_bShowForAnyFaction 1
+  m_iOrder 6
  }
 }

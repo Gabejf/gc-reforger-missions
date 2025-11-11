@@ -6,11 +6,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3524.505 157.568 6019.898
-  angleX 7.956
-  angleY 179.374
-  angleZ -4.511
+  angles 7.956 179.374 -4.511
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams Bravo Company HQ (Bravo Actual)"
  }
@@ -23,11 +23,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3490.035 163.167 5990.771
-  angleX -0.895
-  angleY -179.997
-  angleZ -2.684
+  angles -0.895 -179.997 -2.684
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams 2'2"
  }
@@ -40,11 +40,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3475.967 163.69 5990.115
-  angleX -0.894
-  angleY -179.955
-  angleZ -1.79
+  angles -0.894 -179.955 -1.79
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams 2'3"
  }
@@ -56,11 +56,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3511.051 158.33 6019.526
-  angleX 6.218
-  angleY 179.61
-  angleZ -3.598
+  angles 6.218 179.61 -3.598
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams Platoon HQ (Bravo 1'6)"
  }
@@ -73,11 +73,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3498.039 158.812 6019.747
-  angleX 7.123
-  angleY 179.888
-  angleZ -0.902
+  angles 7.123 179.888 -0.902
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams 1'1"
  }
@@ -90,10 +90,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3485.639 159.048 6018.769
-  angleX 8.005
-  angleY -180
+  angles 8.005 -180 0
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams 1'2"
  }
@@ -106,10 +107,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3474.285 159.114 6018.086
-  angleX 7.125
-  angleY -180
+  angles 7.125 -180 0
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams 1'3"
  }
@@ -122,11 +124,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3504.448 162.329 5990.83
-  angleX -0.898
-  angleY 179.953
-  angleZ -3.575
+  angles -0.898 179.953 -3.575
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams 2'1"
  }
@@ -138,11 +140,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3519.097 161.452 5991.3
-  angleX -0.904
-  angleY 179.853
-  angleZ -3.574
+  angles -0.904 179.853 -3.574
   m_aUnitPrefabSlots {
-   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et" "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et" "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
+   "{FB3ECBB227CBEC38}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewCommander_P.et"
+   "{B94C515ED8EA024E}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewGunner_P.et"
+   "{6838AF507D6AAF2D}Prefabs/Characters/Factions/BLUFOR/US_Army/Deprecated/Character_US_CrewDriver_P.et"
   }
   m_sCustomNameSet "M1A1 Abrams Tank Platoon HQ (Bravo 2'6)"
  }
@@ -154,11 +156,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3461.321 159.507 6017.822
-  angleX 5.351
-  angleY 179.828
-  angleZ -1.798
+  angles 5.351 179.828 -1.798
   m_aUnitPrefabSlots {
-   "{56158B2C2A6297B7}worlds/Gabe/Prefabs/US_Recon_ScoutLeader_radio_binos.et" "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/US_Recon_LAT_Radio_Binos.et" "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/US_Recon_LAT_Radio_Binos.et"
+   "{56158B2C2A6297B7}worlds/Gabe/Prefabs/Blufor/US_Recon_ScoutLeader_radio_binos_P.et"
+   "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/Blufor/US_Recon_LAT_Radio_Binos_P.et"
+   "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/Blufor/US_Recon_LAT_Radio_Binos_P.et"
   }
   m_sCustomNameSet "M2 .50 HMMWV Recon w/ M72A3 LAWs (Whiskey 1)"
  }
@@ -170,11 +172,11 @@ $grp SCR_AIGroup : "{3CC80518BD9541C4}Prefabs/Groups/BLUFOR/US/Army/1986/2nd AD 
    }
   }
   coords 3453.138 159.707 6017.936
-  angleX 5.353
-  angleY 179.828
-  angleZ -0.907
+  angles 5.353 179.828 -0.907
   m_aUnitPrefabSlots {
-   "{56158B2C2A6297B7}worlds/Gabe/Prefabs/US_Recon_ScoutLeader_radio_binos.et" "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/US_Recon_LAT_Radio_Binos.et" "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/US_Recon_LAT_Radio_Binos.et"
+   "{56158B2C2A6297B7}worlds/Gabe/Prefabs/Blufor/US_Recon_ScoutLeader_radio_binos_P.et"
+   "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/Blufor/US_Recon_LAT_Radio_Binos_P.et"
+   "{8F1B0BBDD64F33BD}worlds/Gabe/Prefabs/Blufor/US_Recon_LAT_Radio_Binos_P.et"
   }
   m_sCustomNameSet "M2 .50 HMMWV Recon w/ M72A3 LAWs (Whiskey 2)"
  }
@@ -190,12 +192,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iPlatoonCallsign 2
    }
   }
-  coords 5484.57 95.968 4825.437
-  angleX 6.725
-  angleY -107.796
-  angleZ 3.445
+  coords 5448.558 93.1 4888.758
+  angles 3.641 159.881 -10.721
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T-72B Tank Platoon HQ (ekho 2'0)"
@@ -211,12 +213,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 1
    }
   }
-  coords 5479.334 95.116 4840.097
-  angleX 6.725
-  angleY -107.796
-  angleZ 3.445
+  coords 5461.168 90.428 4897.736
+  angles -4.173 -10.175 7.062
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T-72B 2'1"
@@ -232,12 +234,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 2
    }
   }
-  coords 5474.25 94.257 4853.716
-  angleX 6.993
-  angleY -107.776
-  angleZ 4.287
+  coords 5472.81 89.088 4906.362
+  angles -1.884 3.105 1.689
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T-72B 2'2"
@@ -252,12 +254,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iPlatoonCallsign 3
    }
   }
-  coords 5469.231 93.098 4868.048
-  angleX 7.26
-  angleY -107.754
-  angleZ 5.128
+  coords 5485.14 88.813 4915.206
+  angles 0 8.719 0
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T-72B Tank Platoon HQ (ekho 3'0)"
@@ -273,12 +275,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 1
    }
   }
-  coords 5463.787 91.86 4882.048
-  angleX 8.092
-  angleY -107.682
-  angleZ 4.86
+  coords 5497.034 88.613 4924.354
+  angles -2.39 25.8 0.832
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T-72B 3'1"
@@ -294,12 +296,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 2
    }
   }
-  coords 5458.132 90.81 4897.198
-  angleX 7.562
-  angleY -107.749
-  angleZ 3.174
+  coords 5509.974 87.689 4934.007
+  angles 3.415 -85.215 2.078
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T-72B 3'2"
@@ -314,12 +316,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 7
    }
   }
-  coords 5513.433 92.39 4840.377
-  angleX 5.615
-  angleY -107.852
-  angleZ 2.872
+  coords 5471.05 93.258 4865.314
+  angles -6.745 75.422 -4.67
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T72B - ekho Company Command"
@@ -334,12 +336,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iPlatoonCallsign 1
    }
   }
-  coords 5508.708 91.745 4853.903
-  angleX 4.772
-  angleY -107.899
-  angleZ 3.145
+  coords 5482.705 91.451 4873.576
+  angles -6.499 6.409 1.956
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T72B Platoon HQ (ekho 1'0)"
@@ -355,12 +357,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 1
    }
   }
-  coords 5504.208 91.167 4866.219
-  angleX 3.378
-  angleY -107.92
-  angleZ 1.726
+  coords 5493.253 90.409 4881.312
+  angles -1.942 -53.502 4.121
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T72B ekho 1'1"
@@ -376,12 +378,12 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 2
    }
   }
-  coords 5499.511 90.497 4878.667
-  angleX 1.96
-  angleY -108.052
-  angleZ 3.122
+  coords 5503.873 89.734 4889.254
+  angles -3.569 -3.605 0.225
   m_aUnitPrefabSlots {
-   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "T72B ekho 1'2"
@@ -396,14 +398,54 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 9
    }
   }
-  coords 5495.062 89.629 4891.942
-  angleX 1.114
-  angleY -108.12
-  angleZ 3.399
+  coords 5515.359 88.777 4897.207
+  angles -2.282 -18.201 4.507
   m_aUnitPrefabSlots {
-   "{87655FFE44D468FA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderAT_P.et" "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et" "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+   "{87655FFE44D468FA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderAT_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
   }
   m_bPlayable 1
   m_sCustomNameSet "BRDM2 Recon w/ RPGs (ekho 6'9)"
+ }
+ ekho68i {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "line"
+   }
+   PS_GroupCallsignAssigner "{65136701CA021D8F}" {
+    m_iCompanyCallsign 6
+    m_iSquadCallsign 8
+   }
+  }
+  coords 5524.084 87.696 4903.238
+  angles 0.28 -36.172 6.423
+  m_aUnitPrefabSlots {
+   "{87655FFE44D468FA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderAT_P.et"
+   "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
+   "{296CC757A1430309}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewDriver_P.et"
+  }
+  m_bPlayable 1
+  m_sCustomNameSet "BRDM2 Recon w/ RPGs (ekho 6'8)"
+ }
+ darkhorsei {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "line"
+   }
+   PS_GroupCallsignAssigner "{65136701CA021D8F}" {
+    m_iCompanyCallsign 7
+    m_iPlatoonCallsign 4
+    m_iSquadCallsign 10
+   }
+  }
+  coords 4870.153 29.119 11763.4
+  angles -2.621 73.6 0.813
+  m_aUnitPrefabSlots {
+   "{FFE45AFCB29CD014}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliPilot_P.et"
+   "{CF063A058ADD156E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Character_USSR_HeliGunner_P.et"
+  }
+  m_bPlayable 1
+  m_sCustomNameSet "Dark Horse (Mi-24 Hind)"
  }
 }
