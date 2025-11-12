@@ -129,19 +129,20 @@ PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" 
    m_lineColor 1 0 0.881 1
   }
  }
- coords 4645.617 71.887 5637.346
+ coords 3911.675 71.887 7990.437
+ angles 0 9.158 0
  Points {
   ShapePoint "{66D6444DC3B67121}" {
-   Position 1915.969 -0 222.817
+   Position 3500 0 -2500
   }
   ShapePoint "{66D6444D9D5C3356}" {
-   Position -606.979 0 1667.771
+   Position 3500 0 0
   }
   ShapePoint "{66D6444DCC9C415D}" {
-   Position -1487.62 -0 175.947
+   Position 0 0 0
   }
   ShapePoint "{66D6444DB6FBF77C}" {
-   Position 1132.48 0 -1188.055
+   Position 0 0 -2500
   }
  }
 }
@@ -226,8 +227,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{B2A519402E9AC209}PrefabsEditable/Restri
   }
  }
  {
-  coords 5489.256 89.914 4888.452
-  angles -1.454 82.733 -4.318
+  coords 6211.778 102.857 4948.382
+  angles -7.655 143.682 0.104
   m_fWarnRadius 125
   m_fZoneRadius 200
   m_fZoneTeleportedRadius 250
@@ -251,8 +252,8 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_bShowForAnyFaction 1
  }
  MarkerOpfor {
-  coords 5474.69 90.643 4885.135
-  angles 4.413 163.986 -4.044
+  coords 6201.854 104.625 4959.557
+  angles -0.15 -136.131 -7.551
   m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
   m_sImageSetGlow ""
   m_sQuadName "armored"

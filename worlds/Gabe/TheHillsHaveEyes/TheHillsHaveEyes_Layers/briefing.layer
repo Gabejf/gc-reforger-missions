@@ -200,7 +200,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  ALL_mission_notes {
   coords 5212.29 517.118 7584.107
   m_sTitle "Mission Notes"
-  m_sTextData "AO limit activates after freeze timer. Mi-24P is not impacted by AO limit, however the pilot/gunner are when they're not inside the helicopter, so make sure to load up before the freeze timer completes or you will be considered outside the AO."\
+  m_sTextData "Mi-24P is not impacted by AO limit, however the pilot/gunner are when they're not inside the helicopter, however this will only become a factor once the pilot/gunner have been inside the AO at least once (i.e. the helicopter crew will not be impacted by the AO limit at spawn even prior to getting inside the helicopter because they spawn outside the AO)."\
+  ""\
+  "Helicopter crew spawn area has a setup area as well - do not take off until the freeze timer completes!"\
   ""\
   "(note: Mi-24P has had its health values modified by +50% in its hitboxes, and +500% for the battery damage threshold in order to increase its viability in this mission and it will also not begin to experience malfunctions until it is at 40% of its max health)"
   m_bShowForAnyFaction 1

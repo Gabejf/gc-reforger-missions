@@ -192,8 +192,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iPlatoonCallsign 2
    }
   }
-  coords 5448.558 93.1 4888.758
-  angles 3.641 159.881 -10.721
+  coords 6192.167 107.379 4984.237
+  angles 1.735 24.953 4.744
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -213,8 +213,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 1
    }
   }
-  coords 5461.168 90.428 4897.736
-  angles -4.173 -10.175 7.062
+  coords 6206.09 105.887 4977.538
+  angles 2.97 25.033 6.295
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -234,8 +234,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 2
    }
   }
-  coords 5472.81 89.088 4906.362
-  angles -1.884 3.105 1.689
+  coords 6219.209 104.223 4971.477
+  angles 3.726 25.485 6.692
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -254,8 +254,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iPlatoonCallsign 3
    }
   }
-  coords 5485.14 88.813 4915.206
-  angles 0 8.719 0
+  coords 6232.86 102.568 4964.933
+  angles 2.169 24.952 5.921
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -275,8 +275,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 1
    }
   }
-  coords 5497.034 88.613 4924.354
-  angles -2.39 25.8 0.832
+  coords 6246.569 101.13 4958.923
+  angles 2.497 25.504 5.141
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -296,8 +296,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 2
    }
   }
-  coords 5509.974 87.689 4934.007
-  angles 3.415 -85.215 2.078
+  coords 6261.221 99.58 4952.243
+  angles 2.168 24.958 5.922
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -316,8 +316,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 7
    }
   }
-  coords 5471.05 93.258 4865.314
-  angles -6.745 75.422 -4.67
+  coords 6182.69 105.825 4953.266
+  angles 2.222 24.979 7.893
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -336,8 +336,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iPlatoonCallsign 1
    }
   }
-  coords 5482.705 91.451 4873.576
-  angles -6.499 6.409 1.956
+  coords 6195.51 104.001 4947.026
+  angles 1.814 24.767 6.718
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -357,8 +357,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 1
    }
   }
-  coords 5493.253 90.409 4881.312
-  angles -1.942 -53.502 4.121
+  coords 6207.334 102.844 4941.499
+  angles 0.636 89.183 -3.348
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -378,8 +378,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 2
    }
   }
-  coords 5503.873 89.734 4889.254
-  angles -3.569 -3.605 0.225
+  coords 6219.362 101.229 4936.016
+  angles 3.358 24.926 5.485
   m_aUnitPrefabSlots {
    "{B4A947AA09E9F15E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommander_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -398,8 +398,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 9
    }
   }
-  coords 5515.359 88.777 4897.207
-  angles -2.282 -18.201 4.507
+  coords 6231.815 99.951 4929.761
+  angles 4.513 25.246 5.073
   m_aUnitPrefabSlots {
    "{87655FFE44D468FA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderAT_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"
@@ -418,8 +418,8 @@ $grp SCR_AIGroup : "{45A6BA13BD48E0D3}Prefabs/Groups/OPFOR/Russia/1980s/Motorise
     m_iSquadCallsign 8
    }
   }
-  coords 5524.084 87.696 4903.238
-  angles 0.28 -36.172 6.423
+  coords 6241.419 98.967 4924.881
+  angles 4.557 24.755 5.034
   m_aUnitPrefabSlots {
    "{87655FFE44D468FA}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewCommanderAT_P.et"
    "{F818395904C3AE6A}Prefabs/Characters/Factions/OPFOR/USSR_Army/Extra/Character_USSR_CrewGunner_P.et"

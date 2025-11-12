@@ -47,8 +47,8 @@ $grp Vehicle : "{254289B9C09904AB}Prefabs/Vehicles/Wheeled/BRDM2/BRDM2.et" {
     }
    }
   }
-  coords 5513.338 89.058 4894.989
-  angles -1.502 -36.142 5.513
+  coords 6229.074 100.139 4930.393
+  angles 2.963 25.103 6.298
   m_sAttachmentGroupName "ekho69i"
  }
  BRDM2 {
@@ -99,8 +99,8 @@ $grp Vehicle : "{254289B9C09904AB}Prefabs/Vehicles/Wheeled/BRDM2/BRDM2.et" {
     }
    }
   }
-  coords 5522.065 87.994 4901.016
-  angles -0.262 -36.039 5.707
+  coords 6238.519 99.189 4925.635
+  angles 5.697 25.224 4.639
   m_sAttachmentGroupName "ekho68i"
  }
 }
@@ -222,8 +222,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5445.928 93.889 4885.691
-  angles 0.22 -36.145 10.796
+  coords 6188.444 107.699 4985.067
+  angles 2.606 24.275 5.086
   m_sAttachmentGroupName "ekho20i"
  }
  ekho31 {
@@ -263,8 +263,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5494.42 88.73 4921.245
-  angles -0.729 -35.446 0.519
+  coords 6242.77 101.442 4959.647
+  angles 3.685 25.518 4.717
   m_sAttachmentGroupName "ekho31i"
  }
  ekho32 {
@@ -304,8 +304,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5507.438 87.946 4930.852
-  angles 0.658 -36.025 3.943
+  coords 6257.413 99.914 4952.867
+  angles 2.965 25.081 6.297
   m_sAttachmentGroupName "ekho32i"
  }
  ekho30 {
@@ -345,8 +345,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5482.546 88.843 4912.083
-  angles -0.732 -35.203 0.516
+  coords 6229.052 102.912 4965.622
+  angles 2.473 25.763 5.152
   m_sAttachmentGroupName "ekho30i"
  }
  ekho22 {
@@ -386,8 +386,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5470.181 89.351 4903.261
-  angles -1.315 -36.045 4.27
+  coords 6215.407 104.596 4972.213
+  angles 3.363 24.871 5.482
   m_sAttachmentGroupName "ekho22i"
  }
  ekho21 {
@@ -427,8 +427,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5458.275 91.063 4894.532
-  angles -0.79 -36.424 9.398
+  coords 6202.071 106.278 4978.455
+  angles 2.684 24.292 7.062
   m_sAttachmentGroupName "ekho21i"
  }
  ekho11 {
@@ -468,8 +468,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5491.308 90.667 4878.669
-  angles -3.809 -36.074 3.872
+  coords 6204.257 102.807 4941.858
+  angles 4.163 24.958 5.855
   m_sAttachmentGroupName "ekho11i"
  }
  ekho_HQ {
@@ -509,8 +509,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5468.833 93.851 4862.212
-  angles -2.074 -36.223 9.202
+  coords 6179.084 106.147 4953.646
+  angles 2.683 24.301 7.062
   m_sAttachmentGroupName "ekho_HQi"
  }
  ekho10 {
@@ -550,8 +550,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5480.18 91.932 4870.454
-  angles -3.624 -36.487 7.087
+  coords 6191.739 104.399 4947.662
+  angles 3.866 24.279 6.612
   m_sAttachmentGroupName "ekho10i"
  }
  ekho12 {
@@ -591,8 +591,8 @@ $grp Tank : "{726286E1F9570EA1}Prefabs/Vehicles/Tracked/T-72B/T72B_base.et" {
     }
    }
   }
-  coords 5501.675 89.896 4886.738
-  angles -2.365 -36.09 2.828
+  coords 6216.277 101.496 4936.655
+  angles 3.77 25.109 6.668
   m_sAttachmentGroupName "ekho12i"
  }
 }
