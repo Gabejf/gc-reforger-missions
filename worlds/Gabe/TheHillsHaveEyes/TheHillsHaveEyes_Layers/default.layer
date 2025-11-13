@@ -136,10 +136,10 @@ PolylineShapeEntity : "{85222A2744768C81}Prefabs/Logic/AOLimit/TILW_AOLimit.et" 
    Position 3500 0 -2500
   }
   ShapePoint "{66D6444D9D5C3356}" {
-   Position 3500 0 0
+   Position 3500 0 900
   }
   ShapePoint "{66D6444DCC9C415D}" {
-   Position 0 0 0
+   Position 0 0 900
   }
   ShapePoint "{66D6444DB6FBF77C}" {
    Position 0 0 -2500
